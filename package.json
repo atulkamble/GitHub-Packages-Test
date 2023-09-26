@@ -16,4 +16,7 @@
     "url": "https://github.com/atulkamble/GitHub-Packages-Test/issues"
   },
   "homepage": "https://github.com/atulkamble/GitHub-Packages-Test#readme"
+
+  "publishConfig": "@atulkamble:GitHub-Packages-Test=https://npm.pkg.github.com"
+
 }
