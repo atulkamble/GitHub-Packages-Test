@@ -1,0 +1,19 @@
+{
+  "name": "github-packages-test",
+  "version": "1.0.0",
+  "description": "Publish to GitHub Packages with GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulkamble/GitHub-Packages-Test.git"
+  },
+  "author": "Atul Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulkamble/GitHub-Packages-Test/issues"
+  },
+  "homepage": "https://github.com/atulkamble/GitHub-Packages-Test#readme"
+}
